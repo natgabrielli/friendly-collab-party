@@ -1,3 +1,4 @@
 # friendly-collab-party
 
-testing GitHub
+be able to share documents and keep all the versions under control
+
