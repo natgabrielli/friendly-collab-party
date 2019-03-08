@@ -1,3 +1,9 @@
-# Friendly Collab Party
+ Friendly Collab Party
 
-be able to share documents and keep all the versions under control
+## Description of my project
+
+Hello everyone! This is the "Friendly Collab Party"folder.
+
+- Learn about versions
+- Learn about colaboration
+- Work with GitHub
